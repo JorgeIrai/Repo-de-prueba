@@ -1,6 +1,6 @@
-nombre = "Jorge"
-apellido = "Iraizoz"
+nombre = "Jimbo"
+apellido = "123"
 
-saludo = "Me llamo " + nombre + " " + apellido + "¿Me comes los huevos?"
+saludo = "Me llamo " + nombre + " " + apellido + "¿Qué tal?"
 
 print(saludo)
