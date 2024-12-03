@@ -1,1 +1,3 @@
-print("Buenas tardes")
+Saludo = "Buenas tardes"
+
+print(Saludo)
